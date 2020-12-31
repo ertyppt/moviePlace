@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'arial', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #696969;
+}
+
+a:hover{
+	color: red;
+}
+
+#main-footer{
+	color: #A9A9A9;
+}
+
+.Img1{
+	font-weight: 700; 
+	width:230px;
+	height:340px; 
+	margin-left: 50px;
+	display: inline-block;
+
+}
+
+.ImgText{
+	width: 230px;
+	text-align: center;
+	line-height:40px;
+}
+
+
+.secondImage {
+	width:210px;
+	height:300px;
+	padding-top:10px;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+.caption {
+    display: block;
+}
